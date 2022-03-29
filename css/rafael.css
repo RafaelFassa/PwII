@@ -1,0 +1,6 @@
+.bg-rafael {
+    background-image: url("../img/debate.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
