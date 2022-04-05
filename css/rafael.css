@@ -65,3 +65,9 @@
     color: rgb(126, 126, 126);
     transition: 0.3s;
 }
+
+.desenvolvido {
+    text-decoration: none;
+    color: white;
+    font-family: Roboto;
+}
